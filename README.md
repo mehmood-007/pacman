@@ -8,7 +8,7 @@
  - AI based pixel detection can also be integrated 
  
  
- ##Highlights
+ ## Highlights
 
 > Some highlights
 
